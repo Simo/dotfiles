@@ -10,7 +10,7 @@ call minpac#add('morhetz/gruvbox')
 call minpac#add('trusktr/seti.vim')
 
 "" UTILITIES
-call minpac#add('tpope/vim-unpaired')
+call minpac#add('tpope/vim-unimpaired')
 call minpac#add('tpope/vim-surround')
 
 "" PLUGINS
@@ -18,6 +18,12 @@ call minpac#add('kien/ctrlp.vim​')
 call minpac#add('scrooloose/nerdtree')
 call minpac#add('Xuyuanp/nerdtree-git-plugin')
 call minpac#add('thoughtbot/vim-rspec')
+
+"" SNIPMATE
+call minpac#add('tomtom/tlib_vim')
+call minpac#add('MarcWeber/vim-addon-mw-utils')
+call minpac#add('garbas/vim-snipmate')
+call minpac#add('honza/vim-snippets')
 
 
 "" APPEARANCE
