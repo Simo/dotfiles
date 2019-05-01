@@ -14,7 +14,7 @@ call minpac#add('tpope/vim-unimpaired')
 call minpac#add('tpope/vim-surround')
 
 "" PLUGINS
-call minpac#add('kien/ctrlp.vim​')
+call minpac#add('kien/ctrlp.vim')
 call minpac#add('scrooloose/nerdtree')
 call minpac#add('Xuyuanp/nerdtree-git-plugin')
 call minpac#add('thoughtbot/vim-rspec')
